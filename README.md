@@ -8,13 +8,13 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
 
 ## Languages
 
-<p style='display: flex; align-items: center;'>
+<div>
 
 <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='JavaScript'><space style='margin-right:10px'></space>
 <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='Python'><space style='margin-right:10px'></space>
 <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' alt='Java'><space style='margin-right:10px'></space>
 
-</p>
+</div>
 
 ## Stacks
 
@@ -65,10 +65,9 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
 
 </div>
 
-## Frameworks
+## Frameworks and Libraries
 
 <p>
-  <img width="44px" src="https://i.imgur.com/BgjSjn9.png">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/nodejs/nodejs-original.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/git/git-original.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/html5/html5-original.svg">
