@@ -37,79 +37,6 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
   </tr>
 </table>
 
-## Stacks
-
-<br>
-
-[![MERN Stack](https://img.shields.io/badge/MERN-Stack-1DA1F2.svg?style=for-the-badge&logo=MERN&logoColor=ffffff)]()
-
-<table>
-  <tr>
-    <td>
-      <!-- MonogoDB -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' alt='MongoDB'> 
-    </td>
-    <td>
-      <!-- Express -->
-     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' alt='Express'> 
-    </td>
-    <td>
-      <!-- React -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='React'> 
-    </td>
-    <td>
-      <!-- NodeJS -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='Node.js'> 
-    </td>
-  </tr>
-</table>
-
-[![LAMP Stack](https://img.shields.io/badge/LAMP-Stack-1DA1F2.svg?style=for-the-badge&logo=LAMP&logoColor=ffffff)](https://www.lamp.com/)
-
-<table>
-  <tr>
-    <td>
-      <!-- Linux -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='Linux'> 
-    </td>
-    <td>
-      <!-- Apache -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg' alt='Apache'> 
-    </td>
-    <td>
-      <!-- MySQL -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg' alt='MySQL'> 
-    </td>
-    <td>
-      <!-- PHP -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' alt='PHP'> 
-    </td>    
-  </tr>
-</table>
-
-[![LEMP Stack](https://img.shields.io/badge/LEMP-Stack-1DA1F2.svg?style=for-the-badge&logo=LEMP&logoColor=ffffff)](https://www.lamp.com/)
-
-<table>
-  <tr>
-    <td>
-      <!-- Linux -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='Linux'> 
-    </td>
-    <td>
-      <!-- Apache -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg' alt='Apache'> 
-    </td>
-    <td>
-      <!-- MySQL -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg' alt='MySQL'> 
-    </td>
-    <td>
-      <!-- Nginx -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg' alt='Nginx'> 
-    </td>
-  </tr>
-</table>
-
 ## Frameworks and Libraries
 
 ### Full Stack Development
@@ -148,6 +75,26 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
     <td>
       <!-- MariaDB -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg' alt='MariaDB'>
+    </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td>
+      <!-- Nginx -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg' alt='Nginx'> 
+    </td>
+    <td>
+      <!-- Apache -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg' alt='Apache'> 
+    </td>
+    <td>
+      <!-- Heroku -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg' alt='Heroku'>
+    </td> 
+    <td>
+      <!-- AWS -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg' alt='AWS'>
     </td>
   </tr>
 </table>
