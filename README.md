@@ -81,6 +81,12 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
 
 ## Frameworks and Libraries
 
+### Full Stack Development
+
+### Data Science
+
+### Networking
+
 <p>
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/nodejs/nodejs-original.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/git/git-original.svg">
