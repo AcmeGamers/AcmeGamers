@@ -21,7 +21,7 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
 
 <br>
 
-[![MERN Stack](https://img.shields.io/badge/MERN-Stack-1DA1F2.svg?style=for-the-badge&logo=MERN&logoColor=ffffff)]
+![MERN Stack](https://img.shields.io/badge/MERN-Stack-1DA1F2.svg?style=for-the-badge&logo=MERN&logoColor=ffffff)
 
 <p>
   <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' alt='MongoDB'>
@@ -30,7 +30,7 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
   <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='Node.js'>
 </p>
 
-[![LAMP Stack](https://img.shields.io/badge/LAMP-Stack-1DA1F2.svg?style=for-the-badge&logo=LAMP&logoColor=ffffff)]
+![LAMP Stack](https://img.shields.io/badge/LAMP-Stack-1DA1F2.svg?style=for-the-badge&logo=LAMP&logoColor=ffffff)
 
 <p>
   <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='Linux'>
@@ -39,7 +39,7 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
   <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' alt='PHP'>
 </p>
 
-[![LEMP Stack](https://img.shields.io/badge/LEMP-Stack-1DA1F2.svg?style=for-the-badge&logo=LEMP&logoColor=ffffff)]
+![LEMP Stack](https://img.shields.io/badge/LEMP-Stack-1DA1F2.svg?style=for-the-badge&logo=LEMP&logoColor=ffffff)
 
 <p>
   <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='Linux'>
