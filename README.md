@@ -20,9 +20,9 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
 
 <br>
 
-<div style='display: flex; align-items: center;'>
-
 [![MEAN Stack](https://img.shields.io/badge/MEAN-Stack-1DA1F2.svg?style=for-the-badge&logo=MEAN&logoColor=ffffff)](https://mean.io/) <space style='margin-right:10px'></space>
+
+<div style='display: flex; align-items: center;'>
 
 <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='React'> <space style='margin-right:10px'></space>
 
@@ -34,10 +34,9 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
 
 </div>
 
-<div style='display: flex; align-items: center;'>
-
 [![LAMP Stack](https://img.shields.io/badge/LAMP-Stack-1DA1F2.svg?style=for-the-badge&logo=LAMP&logoColor=ffffff)](https://www.lamp.com/) <space style='margin-right:10px'></space>
 
+<div style='display: flex; align-items: center;'>
 <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='Linux'> <space style='margin-right:10px'></space>
 
 <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' alt='PHP'> <space style='margin-right:10px'></space>
@@ -48,10 +47,9 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
 
 </div>
 
-<div style='display: flex; align-items: center;'>
-
 [![LEMP Stack](https://img.shields.io/badge/LEMP-Stack-1DA1F2.svg?style=for-the-badge&logo=LEMP&logoColor=ffffff)](https://www.lamp.com/) <space style='margin-right:10px'></space>
 
+<div style='display: flex; align-items: center;'>
 <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='Linux'> <space style='margin-right:10px'></space>
 
 <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' alt='PHP'> <space style='margin-right:10px'></space>
