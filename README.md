@@ -6,7 +6,17 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/acme_gamers) <space style='margin-right:10px'></space>
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/acmegamers/)
 
-## Stacks and Languages
+## Languages
+
+<div style='display: flex; align-items: center;'>
+
+<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg' alt='JavaScript'><space style='margin-right:10px'></space>
+<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg' alt='Python'><space style='margin-right:10px'></space>
+<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg' alt='Java'><space style='margin-right:10px'></space>
+
+</div>
+
+## Stacks
 
 <br>
 
@@ -16,15 +26,13 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
 
 <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='React'> <space style='margin-right:10px'></space>
 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg' alt='JavaScript'> <space style='margin-right:10px'></space>
+<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg' alt='Next.js'> <space style='margin-right:10px'></space>
 
 <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg' alt='Node.js'> <space style='margin-right:10px'></space>
 
 <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg' alt='MongoDB'> <space style='margin-right:10px'></space>
 
 <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' alt='Express'> <space style='margin-right:10px'></space>
-
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg' alt='Node.js'> <space style='margin-right:10px'></space>
 
 </div>
 
