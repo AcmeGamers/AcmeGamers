@@ -60,14 +60,22 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
 
 [![LEMP Stack](https://img.shields.io/badge/LEMP-Stack-1DA1F2.svg?style=for-the-badge&logo=LEMP&logoColor=ffffff)](https://www.lamp.com/) <space style='margin-right:10px'></space>
 
-<div style='display: flex; align-items: center;'>
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='Linux'> <space style='margin-right:10px'></space>
+<table>
+  <tr>
+    <td>
+     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='Linux'> <space style='margin-right:10px'></space>
+    </td>
+    <td>
+    <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' alt='PHP'> <space style='margin-right:10px'></space>
+    </td>
+    <td>
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg' alt='MySQL'> <space style='margin-right:10px'></space>
+    </td>
+    <td>
+     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg' alt='Nginx'> <space style='margin-right:10px'></space>
+    </td>
 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' alt='PHP'> <space style='margin-right:10px'></space>
-
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg' alt='MySQL'> <space style='margin-right:10px'></space>
-
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg' alt='Nginx'> <space style='margin-right:10px'></space>
+</table>
 
 </div>
 
