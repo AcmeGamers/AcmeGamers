@@ -22,17 +22,22 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
 
 [![MEAN Stack](https://img.shields.io/badge/MEAN-Stack-1DA1F2.svg?style=for-the-badge&logo=MEAN&logoColor=ffffff)](https://mean.io/) <space style='margin-right:10px'></space>
 
-<div style='display: flex; align-items: center;'>
+<table>
+  <tr>
+    <td>
+     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='React'> <space style='margin-right:10px'></space>
+    </td>
+    <td>
+    <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='Node.js'> <space style='margin-right:10px'></space>
+    </td>
+    <td>
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' alt='MongoDB'> <space style='margin-right:10px'></space>
+    </td>
+    <td>
+     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' alt='Express'> <space style='margin-right:10px'></space>
+    </td>
 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='React'> <space style='margin-right:10px'></space>
-
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='Node.js'> <space style='margin-right:10px'></space>
-
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' alt='MongoDB'> <space style='margin-right:10px'></space>
-
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' alt='Express'> <space style='margin-right:10px'></space>
-
-</div>
+</table>
 
 [![LAMP Stack](https://img.shields.io/badge/LAMP-Stack-1DA1F2.svg?style=for-the-badge&logo=LAMP&logoColor=ffffff)](https://www.lamp.com/) <space style='margin-right:10px'></space>
 
