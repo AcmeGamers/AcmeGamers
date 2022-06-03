@@ -8,149 +8,62 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
 
 ## Languages
 
-<table>
-  <tr>
-    <td>
-      <!-- HTML -->
-      <img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' alt='HTML5'>
-    </td>
-    <td>
-      <!-- CSS -->
-      <img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' alt='CSS'>
-    </td>
-    <td>
-      <!-- JavaScript -->
-     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='JavaScript'>
-    </td>
-    <td>
-      <!-- Python -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='Python'>
-    </td>
-    <td>
-      <!-- Java -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' alt='Java'>
-    </td>
-    <td>
-      <!-- Solidity -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg' alt='Solidity'>
-    </td>
-  </tr>
-</table>
+<p>
+  <img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' alt='HTML5'>
+  <img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' alt='CSS'>
+  <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='JavaScript'>
+  <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='Python'>
+  <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' alt='Java'>  
+  <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg' alt='Solidity'>
+</p>
 
 ## Stacks
 
 <br>
 
-[![MERN Stack](https://img.shields.io/badge/MERN-Stack-1DA1F2.svg?style=for-the-badge&logo=MERN&logoColor=ffffff)]()
+[![MERN Stack](https://img.shields.io/badge/MERN-Stack-1DA1F2.svg?style=for-the-badge&logo=MERN&logoColor=ffffff)]
 
-<table>
-  <tr>
-    <td>
-      <!-- MonogoDB -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' alt='MongoDB'> 
-    </td>
-    <td>
-      <!-- Express -->
-     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' alt='Express'> 
-    </td>
-    <td>
-      <!-- React -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='React'> 
-    </td>
-    <td>
-      <!-- NodeJS -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='Node.js'> 
-    </td>
-  </tr>
-</table>
+<p>
+  <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' alt='MongoDB'>
+  <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' alt='Express'>
+  <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='React'>
+  <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='Node.js'>
+</p>
 
-[![LAMP Stack](https://img.shields.io/badge/LAMP-Stack-1DA1F2.svg?style=for-the-badge&logo=LAMP&logoColor=ffffff)](https://www.lamp.com/)
+[![LAMP Stack](https://img.shields.io/badge/LAMP-Stack-1DA1F2.svg?style=for-the-badge&logo=LAMP&logoColor=ffffff)]
 
-<table>
-  <tr>
-    <td>
-      <!-- Linux -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='Linux'> 
-    </td>
-    <td>
-      <!-- Apache -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg' alt='Apache'> 
-    </td>
-    <td>
-      <!-- MySQL -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg' alt='MySQL'> 
-    </td>
-    <td>
-      <!-- PHP -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' alt='PHP'> 
-    </td>    
-  </tr>
-</table>
+<p>
+  <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='Linux'>
+  <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg' alt='Apache'>
+  <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg' alt='MySQL'>
+  <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' alt='PHP'>
+</p>
 
-[![LEMP Stack](https://img.shields.io/badge/LEMP-Stack-1DA1F2.svg?style=for-the-badge&logo=LEMP&logoColor=ffffff)](https://www.lamp.com/)
+[![LEMP Stack](https://img.shields.io/badge/LEMP-Stack-1DA1F2.svg?style=for-the-badge&logo=LEMP&logoColor=ffffff)]
 
-<table>
-  <tr>
-    <td>
-      <!-- Linux -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='Linux'> 
-    </td>
-    <td>
-      <!-- Apache -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg' alt='Apache'> 
-    </td>
-    <td>
-      <!-- MySQL -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg' alt='MySQL'> 
-    </td>
-    <td>
-      <!-- Nginx -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg' alt='Nginx'> 
-    </td>
-  </tr>
-</table>
+<p>
+  <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='Linux'>
+  <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg' alt='Apache'>
+  <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg' alt='MySQL'>
+  <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg' alt='Nginx'>
+</p>
 
 ## Frameworks and Libraries
 
 ### Full Stack Development
 
-<table>
-  <!-- Row 1 -->
-  <tr>
-    <td>
-     <!-- Node JS -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='Node.js'> 
-    </td>
-    <td>
-    <!-- Express -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' alt='Express'> 
-    </td>
-    <td>
-      <!-- React -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='React'> 
-    </td>
-    <td>
-      <!-- Next -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg' alt='Next.js'> 
-    </td>
-  </tr>
-  
-  <!-- Row 2 -->
-  <tr>
-    <td>
-      <!-- Firebase -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg' alt='Firebase'>
-    </td>
-    <td>
-      <!-- MongoDB -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' alt='MongoDB'>
-    </td>
-    <td>
-      <!-- MariaDB -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg' alt='MariaDB'>
-    </td>
-  </tr>
-</table>
+<p>
+  <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='Node.js'>
+  <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' alt='Express'>
+  <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='React'>
+  <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg' alt='Next.js'>
+</p>
+
+<p>
+  <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg' alt='Firebase'>
+  <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' alt='MongoDB'>
+  <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg' alt='MariaDB'>
+</p>
 
 ### Data Science
 
