@@ -6,10 +6,6 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/acme_gamers) <space style='margin-right:10px'></space>
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/acmegamers/)
 
-<hr>
-
-<br>
-
 ## Stacks and Languages
 
 <br>
