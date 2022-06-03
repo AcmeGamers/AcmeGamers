@@ -2,8 +2,8 @@
 
 I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to code 🙂.
 
-[![Gmail Badge](https://img.shields.io/badge/-Email-005FF9?style=for-the-badge&logo=Mail.Ru&logoColor=ffffff)](mailto:acmegamers@fatima-academy.com) <space style='margin-right:10px'></space>
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/acme_gamers) <space style='margin-right:10px'></space>
+[![Gmail Badge](https://img.shields.io/badge/-Email-005FF9?style=for-the-badge&logo=Mail.Ru&logoColor=ffffff)](mailto:acmegamers@fatima-academy.com)
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/acme_gamers)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/acmegamers/)
 
 ## Languages
@@ -12,26 +12,26 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
   <tr>
     <td>
       <!-- HTML -->
-      <img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html-5/html5-plain.svg' alt='HTML5'>
+      <img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' alt='HTML5'>
     </td>
     <td>
       <!-- CSS -->
-      <img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css-5/css5-plain.svg' alt='CSS'>
+      <img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' alt='CSS'>
     </td>
     <td>
       <!-- JavaScript -->
-     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='JavaScript'><space style='margin-right:10px'></space>
+     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='JavaScript'>
     </td>
     <td>
       <!-- Python -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='Python'><space style='margin-right:10px'></space>
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='Python'>
     </td>
     <td>
       <!-- Java -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' alt='Java'><space style='margin-right:10px'></space>
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' alt='Java'>
     </td>
     <td>
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg' alt='Solidity'><space style='margin-right:10px'></space>
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg' alt='Solidity'>
     </td>
   </tr>
 </table>
@@ -40,59 +40,59 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
 
 <br>
 
-[![MEAN Stack](https://img.shields.io/badge/MEAN-Stack-1DA1F2.svg?style=for-the-badge&logo=MEAN&logoColor=ffffff)](https://mean.io/) <space style='margin-right:10px'></space>
+[![MEAN Stack](https://img.shields.io/badge/MEAN-Stack-1DA1F2.svg?style=for-the-badge&logo=MEAN&logoColor=ffffff)](https://mean.io/)
 
 <table>
   <tr>
     <td>
-     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='React'> <space style='margin-right:10px'></space>
+     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='React'> 
     </td>
     <td>
-    <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='Node.js'> <space style='margin-right:10px'></space>
+    <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='Node.js'> 
     </td>
     <td>
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' alt='MongoDB'> <space style='margin-right:10px'></space>
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' alt='MongoDB'> 
     </td>
     <td>
-     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' alt='Express'> <space style='margin-right:10px'></space>
+     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' alt='Express'> 
     </td>
   </tr>
 </table>
 
-[![LAMP Stack](https://img.shields.io/badge/LAMP-Stack-1DA1F2.svg?style=for-the-badge&logo=LAMP&logoColor=ffffff)](https://www.lamp.com/) <space style='margin-right:10px'></space>
+[![LAMP Stack](https://img.shields.io/badge/LAMP-Stack-1DA1F2.svg?style=for-the-badge&logo=LAMP&logoColor=ffffff)](https://www.lamp.com/)
 
 <table>
   <tr>
     <td>
-     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='Linux'> <space style='margin-right:10px'></space>
+     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='Linux'> 
     </td>
     <td>
-    <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' alt='PHP'> <space style='margin-right:10px'></space>
+    <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' alt='PHP'> 
     </td>
     <td>
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg' alt='MySQL'> <space style='margin-right:10px'></space>
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg' alt='MySQL'> 
     </td>
     <td>
-     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg' alt='Apache'> <space style='margin-right:10px'></space>
+     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg' alt='Apache'> 
     </td>
   </tr>
 </table>
 
-[![LEMP Stack](https://img.shields.io/badge/LEMP-Stack-1DA1F2.svg?style=for-the-badge&logo=LEMP&logoColor=ffffff)](https://www.lamp.com/) <space style='margin-right:10px'></space>
+[![LEMP Stack](https://img.shields.io/badge/LEMP-Stack-1DA1F2.svg?style=for-the-badge&logo=LEMP&logoColor=ffffff)](https://www.lamp.com/)
 
 <table>
   <tr>
     <td>
-     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='Linux'> <space style='margin-right:10px'></space>
+     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='Linux'> 
     </td>
     <td>
-    <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' alt='PHP'> <space style='margin-right:10px'></space>
+    <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' alt='PHP'> 
     </td>
     <td>
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg' alt='MySQL'> <space style='margin-right:10px'></space>
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg' alt='MySQL'> 
     </td>
     <td>
-     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg' alt='Nginx'> <space style='margin-right:10px'></space>
+     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg' alt='Nginx'> 
     </td>
   </tr>
 </table>
@@ -105,18 +105,19 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
   <tr>
     <td>
      <!-- Node JS -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='Node.js'> <space style='margin-right:10px'></space>
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='Node.js'> 
     </td>
     <td>
     <!-- Express -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' alt='Express'> <space style='margin-right:10px'></space>
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' alt='Express'> 
     </td>
     <td>
       <!-- React -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='React'> <space style='margin-right:10px'></space>
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='React'> 
     </td>
     <td>
-       
+      <!-- Next -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg' alt='Next.js'> 
     </td>
   </tr>
   <tr>
@@ -129,16 +130,16 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
 <table>
   <tr>
     <td>
-     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='Linux'> <space style='margin-right:10px'></space>
+     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='Linux'> 
     </td>
     <td>
-    <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' alt='PHP'> <space style='margin-right:10px'></space>
+    <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' alt='PHP'> 
     </td>
     <td>
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg' alt='MySQL'> <space style='margin-right:10px'></space>
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg' alt='MySQL'> 
     </td>
     <td>
-     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg' alt='Nginx'> <space style='margin-right:10px'></space>
+     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg' alt='Nginx'> 
     </td>
   </tr>
 </table>
@@ -148,16 +149,16 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
 <table>
   <tr>
     <td>
-     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='Linux'> <space style='margin-right:10px'></space>
+     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='Linux'> 
     </td>
     <td>
-    <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' alt='PHP'> <space style='margin-right:10px'></space>
+    <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' alt='PHP'> 
     </td>
     <td>
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg' alt='MySQL'> <space style='margin-right:10px'></space>
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg' alt='MySQL'> 
     </td>
     <td>
-     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg' alt='Nginx'> <space style='margin-right:10px'></space>
+     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg' alt='Nginx'> 
     </td>
   </tr>
 </table>
