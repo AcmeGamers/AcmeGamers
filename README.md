@@ -8,13 +8,13 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
 
 ## Languages
 
-<p style='display: flex; align-items: center;'>
+<div style='display: flex; align-items: center;'>
 
 <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='JavaScript'><space style='margin-right:10px'></space>
 <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='Python'><space style='margin-right:10px'></space>
 <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' alt='Java'><space style='margin-right:10px'></space>
 
-</p>
+</div>
 
 ## Stacks
 
