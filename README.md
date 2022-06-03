@@ -10,9 +10,9 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
 
 <div style='display: flex; align-items: center;'>
 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg' alt='JavaScript'><space style='margin-right:10px'></space>
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg' alt='Python'><space style='margin-right:10px'></space>
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg' alt='Java'><space style='margin-right:10px'></space>
+<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='JavaScript'><space style='margin-right:10px'></space>
+<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='Python'><space style='margin-right:10px'></space>
+<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' alt='Java'><space style='margin-right:10px'></space>
 
 </div>
 
@@ -28,9 +28,9 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
 
 <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg' alt='Next.js'> <space style='margin-right:10px'></space>
 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg' alt='Node.js'> <space style='margin-right:10px'></space>
+<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='Node.js'> <space style='margin-right:10px'></space>
 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg' alt='MongoDB'> <space style='margin-right:10px'></space>
+<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' alt='MongoDB'> <space style='margin-right:10px'></space>
 
 <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' alt='Express'> <space style='margin-right:10px'></space>
 
@@ -40,11 +40,11 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
 
 [![LAMP Stack](https://img.shields.io/badge/LAMP-Stack-1DA1F2.svg?style=for-the-badge&logo=LAMP&logoColor=ffffff)](https://www.lamp.com/) <space style='margin-right:10px'></space>
 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg' alt='Linux'> <space style='margin-right:10px'></space>
+<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='Linux'> <space style='margin-right:10px'></space>
 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg' alt='PHP'> <space style='margin-right:10px'></space>
+<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' alt='PHP'> <space style='margin-right:10px'></space>
 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg' alt='MySQL'> <space style='margin-right:10px'></space>
+<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg' alt='MySQL'> <space style='margin-right:10px'></space>
 
 <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg' alt='Apache'> <space style='margin-right:10px'></space>
 
@@ -54,11 +54,11 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
 
 [![LEMP Stack](https://img.shields.io/badge/LEMP-Stack-1DA1F2.svg?style=for-the-badge&logo=LEMP&logoColor=ffffff)](https://www.lamp.com/) <space style='margin-right:10px'></space>
 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg' alt='Linux'> <space style='margin-right:10px'></space>
+<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='Linux'> <space style='margin-right:10px'></space>
 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg' alt='PHP'> <space style='margin-right:10px'></space>
+<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' alt='PHP'> <space style='margin-right:10px'></space>
 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg' alt='MySQL'> <space style='margin-right:10px'></space>
+<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg' alt='MySQL'> <space style='margin-right:10px'></space>
 
 <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg' alt='Nginx'> <space style='margin-right:10px'></space>
 
