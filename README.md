@@ -20,7 +20,7 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
 
 <br>
 
-<div style='display: flex; align-items: center;'>
+<div style='display: flex; flex-direction:row; align-items: center;'>
 
 [![MEAN Stack](https://img.shields.io/badge/MEAN-Stack-1DA1F2.svg?style=for-the-badge&logo=MEAN&logoColor=ffffff)](https://mean.io/) <space style='margin-right:10px'></space>
 
