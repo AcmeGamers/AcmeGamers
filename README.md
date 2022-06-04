@@ -159,10 +159,13 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
 
 ## Github Statistics
 
-<div style='display:flex; align-items:center;'>
-  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcmeGamers&count_private=true&hide=html&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
-
-<space style='margin-right: 20px'></space>
-
-  <img width="350px" src="https://github-readme-stats.vercel.app/api/?username=AcmeGamers&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcmeGamers&count_private=true&hide=html&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
+    </td>
+    <td>
+      <img width="350px" src="https://github-readme-stats.vercel.app/api/?username=AcmeGamers&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
+    </td>
+  </tr>
+</table>
