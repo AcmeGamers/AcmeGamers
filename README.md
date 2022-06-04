@@ -156,7 +156,22 @@ I am Acme, an enthusiast who loves to code 🙂.
 
 ### Networking
 
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/git/git-original.svg">
+<table>
+  <tr>
+    <td>
+      <!-- Packet Tracer -->
+      <img width="45px" src="Assets/packet-tracer.png" alt="Packet Tracer">
+    </td>
+    <td>
+      <!-- Wire Shark -->
+      <img width="45px" src="Assets/wireshark-1.png" alt="Wire Shark">
+    </td>
+    <td>
+      <!-- Glass Wire -->
+      <img width="45px" src="Assets/glasswire.png" alt="Glass Wire">
+    </td>
+  </tr>
+</table>
 
 ## Github Statistics
 
