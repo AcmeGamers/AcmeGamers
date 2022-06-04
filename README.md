@@ -59,12 +59,8 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg' alt='LESS'> 
     </td>
     <td>
-      <!-- React -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='React'> 
-    </td>
-    <td>
-      <!-- Next -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg' alt='Next.js'> 
+      <!-- Bootstrap -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg' alt='Bootstrap'>
     </td>
   </tr>
   
