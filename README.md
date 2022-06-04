@@ -95,18 +95,6 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
   <!-- Row 3 -->
   <tr>
     <td>
-      <!-- Firebase -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg' alt='Firebase'>
-    </td>
-    <td>
-      <!-- MongoDB -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' alt='MongoDB'>
-    </td>
-  </tr>
-
-  <!-- Row 4 -->
-  <tr>
-    <td>
       <!-- Heroku -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg' alt='Heroku'>
     </td> 
@@ -125,6 +113,18 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
     <td>
       <!-- Apache -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg' alt='Apache'> 
+    </td>
+  </tr>
+
+  <!-- Row 4 -->
+  <tr>
+    <td>
+      <!-- Firebase -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg' alt='Firebase'>
+    </td>
+    <td>
+      <!-- MongoDB -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' alt='MongoDB'>
     </td>
   </tr>
 
