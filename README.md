@@ -38,7 +38,7 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
   </tr>
 </table>
 
-## Frameworks and Libraries
+## Frameworks | Libraries | Databases | Deployments
 
 ### Full Stack Development
 
