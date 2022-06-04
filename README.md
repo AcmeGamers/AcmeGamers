@@ -69,6 +69,10 @@ I am Acme, an enthusiast who loves to code 🙂.
   <!-- Row 2 -->
   <tr>
     <td>
+     <!-- JQuery -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg' alt='jQuery'> 
+    </td>
+    <td>
      <!-- Node JS -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='Node.js'> 
     </td>
@@ -135,6 +139,10 @@ I am Acme, an enthusiast who loves to code 🙂.
     <td>
       <!-- Anaconda -->
       <img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg' alt='Anaconda'>
+    </td>
+    <td>
+      <!-- Jypyter -->
+      <img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg' alt='Jypyter'>
     </td>
     <td>
       <!-- Pandas -->
