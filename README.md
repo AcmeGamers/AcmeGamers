@@ -64,14 +64,14 @@ I am Acme, an enthusiast who loves to code 🙂.
       <!-- Bootstrap -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg' alt='Bootstrap'>
     </td>
-  </tr>
-  
-  <!-- Row 2 -->
-  <tr>
     <td>
      <!-- JQuery -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg' alt='jQuery'> 
     </td>
+  </tr>
+  
+  <!-- Row 2 -->
+  <tr>
     <td>
      <!-- Node JS -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='Node.js'> 
