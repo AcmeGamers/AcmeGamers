@@ -7,6 +7,7 @@ I am Acme, an enthusiast who loves to code 🙂.
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/acmegamers/)
 [![Facebook](https://img.shields.io/badge/facebook-00A0F2.svg?style=for-the-badge&logo=facebook&logoColor=ffffff)](https://www.facebook.com/acmegamers/)
 [![Skype](https://img.shields.io/badge/skype-0A66C2.svg?style=for-the-badge&logo=skype&logoColor=ffffff)](https://join.skype.com/invite/MG9hK7OkRNzS)
+[![Resume](https://img.shields.io/badge/Resume-0A66C2.svg?style=for-the-badge&logo=Academia&logoColor=ffffff)](https://github.com/AcmeGamers/Projects/blob/main/Resume.pdf)
 
 ## Languages
 
