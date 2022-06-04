@@ -1,11 +1,12 @@
 # Hey there 👋
 
-I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to code 🙂.
+I am Acme, an enthusiast who loves to code 🙂.
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-0A66C2?style=for-the-badge&logo=Mail.Ru&logoColor=ffffff)](mailto:acmegamers@fatima-academy.com)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/acme_gamers)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/acmegamers/)
 [![Facebook](https://img.shields.io/badge/facebook-00A0F2.svg?style=for-the-badge&logo=facebook&logoColor=ffffff)](https://www.facebook.com/acmegamers/)
+[![Skype](https://img.shields.io/badge/skype-0A66C2.svg?style=for-the-badge&logo=skype&logoColor=ffffff)](https://join.skype.com/invite/MG9hK7OkRNzS)
 
 ## Languages
 
@@ -135,10 +136,6 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
       <img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg' alt='Anaconda'>
     </td>
     <td>
-      <!-- Tensorflow -->
-      <img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg' alt='Tensorflow'>
-    </td>
-    <td>
       <!-- Pandas -->
      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg' alt='Pandas'> 
     </td>
@@ -149,6 +146,10 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
     <td>
       <!-- MATLAB -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg' alt='MATLAB'>
+    </td>
+    <td>
+      <!-- Tensorflow -->
+      <img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg' alt='Tensorflow'>
     </td>
   </tr>
 </table>
