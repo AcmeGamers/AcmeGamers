@@ -2,9 +2,10 @@
 
 I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to code 🙂.
 
-[![Gmail Badge](https://img.shields.io/badge/-Email-005FF9?style=for-the-badge&logo=Mail.Ru&logoColor=ffffff)](mailto:acmegamers@fatima-academy.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email-0A66C2?style=for-the-badge&logo=Mail.Ru&logoColor=ffffff)](mailto:acmegamers@fatima-academy.com)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/acme_gamers)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/acmegamers/)
+[![Facebook](https://img.shields.io/badge/facebook-00A0F2.svg?style=for-the-badge&logo=facebook&logoColor=ffffff)](https://www.facebook.com/acmegamers/)
 
 ## Languages
 
@@ -42,11 +43,40 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
 ### Full Stack Development
 
 <table>
+  
   <!-- Row 1 -->
+  <tr>
+    <td>
+     <!-- Tailwind CSS -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg' alt='Tailwind CSS'> 
+    </td>
+    <td>
+      <!-- SASS -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg' alt='SASS'>
+    </td>
+    <td>
+    <!-- LESS -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg' alt='LESS'> 
+    </td>
+    <td>
+      <!-- React -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='React'> 
+    </td>
+    <td>
+      <!-- Next -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg' alt='Next.js'> 
+    </td>
+  </tr>
+  
+  <!-- Row 2 -->
   <tr>
     <td>
      <!-- Node JS -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='Node.js'> 
+    </td>
+    <td>
+      <!-- ES Lint -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg'>
     </td>
     <td>
     <!-- Express -->
@@ -62,25 +92,33 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
     </td>
   </tr>
   
-  <!-- Row 2 -->
+  <!-- Row 3 -->
   <tr>
     <td>
       <!-- Firebase -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg' alt='Firebase'>
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg' alt='Firebase'>
     </td>
     <td>
       <!-- MongoDB -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' alt='MongoDB'>
     </td>
-    <td>
-      <!-- MariaDB -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg' alt='MariaDB'>
-    </td>
   </tr>
 
-  <!-- Row 3 -->
+  <!-- Row 4 -->
   <tr>
     <td>
+      <!-- Heroku -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg' alt='Heroku'>
+    </td> 
+    <td>
+      <!-- AWS -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg' alt='AWS'>
+    </td>
+    <td>
+      <!-- CircleCI -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg' alt='CircleCI'>
+    </td>
+     <td>
       <!-- Nginx -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg' alt='Nginx'> 
     </td>
@@ -88,35 +126,47 @@ I am Acme, a full-stack React Engineer and a JavaScript enthusiast who loves to 
       <!-- Apache -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg' alt='Apache'> 
     </td>
-    <td>
-      <!-- Heroku -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg' alt='Heroku'>
-    </td> 
-    <td>
-      <!-- AWS -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg' alt='AWS'>
-    </td>
   </tr>
+
 </table>
 
 ### Data Science
 
+<table>
+  <tr>
+    <td>
+      <!-- Anaconda -->
+      <img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg' alt='Anaconda'>
+    </td>
+    <td>
+      <!-- Tensorflow -->
+      <img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg' alt='Tensorflow'>
+    </td>
+    <td>
+      <!-- Pandas -->
+     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg' alt='Pandas'> 
+    </td>
+    <td>
+      <!-- Numpy -->
+     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg' alt='Numpy'> 
+    </td>
+    <td>
+      <!-- MATLAB -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg' alt='MATLAB'>
+    </td>
+  </tr>
+</table>
+
 ### Networking
 
-<p>
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/nodejs/nodejs-original.svg">
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/git/git-original.svg">
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/html5/html5-original.svg">
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg'>
-</p>
+<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/git/git-original.svg">
 
 ## Github Statistics
 
-<img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcmeGamers&count_private=true&hide=html&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
+<div style='display:flex; align-items:center;'>
+  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcmeGamers&count_private=true&hide=html&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
 
-<img width="450px" src="https://github-readme-stats.vercel.app/api/?username=AcmeGamers&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515"/>
+<space style='margin-right: 20px'></space>
+
+  <img width="350px" src="https://github-readme-stats.vercel.app/api/?username=AcmeGamers&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515"/>
+</div>
