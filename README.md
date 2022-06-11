@@ -141,6 +141,18 @@ I am Acme, an enthusiast who loves to code 🙂.
       <!-- CircleCI -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg' alt='CircleCI'>
     </td>
+    <td>
+      <!-- Google Cloud -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg' alt='Google Cloud'> 
+    </td>
+    <td>
+      <!-- Hostinger -->
+      <img width='45px' src='Assets/Hostinger-logo.svg' alt='Hostinger'> 
+    </td>
+    <td>
+      <!-- Vercel -->
+      <img width='45px' src='Assets/Vercel.png' alt='Hostinger'> 
+    </td>
      <td>
       <!-- Nginx -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg' alt='Nginx'> 
@@ -149,8 +161,6 @@ I am Acme, an enthusiast who loves to code 🙂.
       <!-- Apache -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg' alt='Apache'> 
     </td>
-    <td></td>
-    <td></td>
     <td></td>
   </tr>
 
