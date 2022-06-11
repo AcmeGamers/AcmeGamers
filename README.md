@@ -93,12 +93,24 @@ I am Acme, an enthusiast who loves to code 🙂.
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' alt='Express'> 
     </td>
     <td>
+    <!-- Babel -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg' alt='Babel'> 
+    </td>
+    <td>
       <!-- React -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='React'> 
     </td>
     <td>
       <!-- Next -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg' alt='Next.js'> 
+    </td>
+    <td>
+      <!-- Electron -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg' alt='Electron'> 
+    </td>
+    <td>
+      <!-- Selenium -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg' alt='Selenium'> 
     </td>
   </tr>
 
