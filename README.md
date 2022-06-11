@@ -169,6 +169,10 @@ I am Acme, an enthusiast who loves to code 🙂.
       <!-- Vercel -->
       <img width='45px' src='Assets/Vercel.png' alt='Hostinger'> 
     </td>
+    <td>
+      <!-- Netlify -->
+      <img width='45px' src='Assets/netlify.jpg' alt='Netlify'> 
+    </td>
      <td>
       <!-- Nginx -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg' alt='Nginx'> 
