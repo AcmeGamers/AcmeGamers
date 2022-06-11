@@ -161,7 +161,6 @@ I am Acme, an enthusiast who loves to code 🙂.
       <!-- Apache -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg' alt='Apache'> 
     </td>
-    <td></td>
   </tr>
 
 </table>
