@@ -76,7 +76,15 @@ I am Acme, an enthusiast who loves to code 🙂.
      <!-- LaTeX -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg' alt='LaTex'> 
     </td>
-    <td></td>
+    <td>
+     <!-- Fluent UI -->
+      <img width='45px' src='Assets/fluent-ui-logo.png' alt='Fluent UI'> 
+    </td>
+    <td>
+     <!-- Charkra UI -->
+      <img width='45px' src='Assets/chakra_ui.jpg' alt='Charkra UI'> 
+    </td>
+    
   </tr>
   
   <!-- Row 2 -->
@@ -113,6 +121,10 @@ I am Acme, an enthusiast who loves to code 🙂.
       <!-- Selenium -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg' alt='Selenium'> 
     </td>
+    <td>
+      <!-- Moocha -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons//mocha/mocha-plain.svg' alt='Moocha'> 
+    </td>
   </tr>
 
   <!-- Row 3 -->
@@ -124,6 +136,10 @@ I am Acme, an enthusiast who loves to code 🙂.
     <td>
       <!-- MongoDB -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' alt='MongoDB'>
+    </td>
+    <td>
+      <!-- MySQL -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg' alt='MySQL'>
     </td>
   </tr>
 
