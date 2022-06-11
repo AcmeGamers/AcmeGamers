@@ -68,6 +68,14 @@ I am Acme, an enthusiast who loves to code 🙂.
      <!-- JQuery -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg' alt='jQuery'> 
     </td>
+    <td>
+     <!-- Material UI -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg' alt='Material UI'> 
+    </td>
+    <td>
+     <!-- LaTeX -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg' alt='LaTex'> 
+    </td>
   </tr>
   
   <!-- Row 2 -->
