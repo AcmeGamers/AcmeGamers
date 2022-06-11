@@ -76,6 +76,7 @@ I am Acme, an enthusiast who loves to code 🙂.
      <!-- LaTeX -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg' alt='LaTex'> 
     </td>
+    <td></td>
   </tr>
   
   <!-- Row 2 -->
@@ -148,6 +149,9 @@ I am Acme, an enthusiast who loves to code 🙂.
       <!-- Apache -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg' alt='Apache'> 
     </td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 
 </table>
