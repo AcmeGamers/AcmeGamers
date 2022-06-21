@@ -246,8 +246,14 @@ I am Acme, an enthusiast who loves to code 🙂.
       <img width="350px" src="https://github-readme-stats.vercel.app/api/?username=AcmeGamers&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
     </td>
   </tr>
+  
+    <tr>
+    <td>
+      <img width="350px" src="https://github-readme-streak-stats.herokuapp.com?user=AcmeGamers&theme=dark&hide_border=true" />
+    </td>
+    <td>
+      <img width="350px" src="https://activity-graph.herokuapp.com/graph?username=AcmeGamers&custom_title=Activity&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
+    </td>
+  </tr>
+
 </table>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AcmeGamers&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-![Github Activity](https://activity-graph.herokuapp.com/graph?username=AcmeGamers&custom_title=Activity&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515)
