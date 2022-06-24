@@ -300,7 +300,7 @@ I am Acme, an enthusiast who loves to code 🙂.
   <tr>
     <td>
       <!-- Angular -->
-      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular">
+      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular">
     </td>  
     <td>
       <!-- Progress -->
