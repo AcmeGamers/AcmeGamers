@@ -238,18 +238,15 @@ I am Acme, an enthusiast who loves to code 🙂.
 
 <table>
   <tr>
+    <!-- Socket.io -->
     <td>
-      <!-- Socket.io -->
       <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io">
     </td>
     <td>
-      <!-- Progress -->
-       🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+       🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️
     </td>
-  </tr>
-  <tr>
+    <!-- WebRTC -->
     <td>
-      <!-- WebRTC -->
       <img width="45px" src="Assets/webrtc.png" alt="WebRTC">
     </td>
     <td>
@@ -258,18 +255,16 @@ I am Acme, an enthusiast who loves to code 🙂.
     </td>
   </tr>
   <tr>
-    <td>
-      <!-- SolidJS -->
+    <!-- SolidJS -->
+    <td>  
       <img width="45px" src="Assets/solidjs.svg" alt="Solid JS">
     </td>
     <td>
       <!-- Progress -->
        🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️
     </td>
-  </tr>
-  <tr>
+    <!-- TypeScript -->
     <td>
-      <!-- TypeScript -->
       <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript">
     </td>
     <td>
@@ -277,19 +272,18 @@ I am Acme, an enthusiast who loves to code 🙂.
        🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
     </td>
   </tr>
+  
   <tr>
+    <!-- Dot-Net -->
     <td>
-      <!-- Dot-Net -->
       <img width="45px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt="Dot-Net">
     </td>
     <td>
       <!-- Progress -->
        🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
     </td>
-  </tr>
-  <tr>
+    <!-- Dot-Net Core -->
     <td>
-      <!-- Dot-Net Core -->
       <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="Dot-Net Core">
     </td>
     <td>
@@ -298,25 +292,23 @@ I am Acme, an enthusiast who loves to code 🙂.
     </td>
   </tr>
   <tr>
+    <!-- Spring Boot -->
     <td>
-      <!-- Spring Boot -->
       <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot">
     </td>
     <td>
       <!-- Progress -->
        ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
     </td>
-  </tr>
-  <tr>
+    <!-- Angular -->
     <td>
-      <!-- Angular -->
       <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular">
     </td>  
     <td>
       <!-- Progress -->
        ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
     </td>
-  <tr>
+  </tr>
 </table>
 
 ## Github Statistics 📊
