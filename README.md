@@ -235,6 +235,81 @@ I am Acme, an enthusiast who loves to code 🙂.
   </tr>
 </table>
 
+## Learning Frameworks / Libraries / Languages
+
+<table>
+  <tr>
+    <td>
+      <!-- Socket.io -->
+      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django">
+    </td>
+    <td>
+      <!-- Progress -->
+       🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <!-- WebRTC -->
+      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django">
+    </td>
+    <td>
+      <!-- Progress -->
+       🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <!-- SolidJS -->
+      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django">
+    </td>
+    <td>
+      <!-- Progress -->
+       🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <!-- TypeScript -->
+      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask">
+    </td>
+    <td>
+      <!-- Progress -->
+       🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <!-- ASP -->
+      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">
+    </td>
+    <td>
+      <!-- Progress -->
+       🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <!-- Spring Boot -->
+      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg" alt="Vue">
+    </td>
+    <td>
+      <!-- Progress -->
+       ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <!-- Angular -->
+      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular">
+    </td>  
+    <td>
+      <!-- Progress -->
+       ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+    </td>
+  <tr>
+</table>
+
 ## Github Statistics
 
 <table>
@@ -255,4 +330,3 @@ I am Acme, an enthusiast who loves to code 🙂.
       <img width="350px" src="https://activity-graph.herokuapp.com/graph?username=AcmeGamers&custom_title=Activity&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
     </td>
   </tr> -->
-
