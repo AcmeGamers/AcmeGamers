@@ -279,8 +279,18 @@ I am Acme, an enthusiast who loves to code 🙂.
   </tr>
   <tr>
     <td>
-      <!-- ASP -->
-      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnet/aspnet-original.svg" alt="ASP">
+      <!-- Dot-Net -->
+      <img width="45px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt="Dot-Net">
+    </td>
+    <td>
+      <!-- Progress -->
+       🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <!-- Dot-Net Core -->
+      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="Dot-Net Core">
     </td>
     <td>
       <!-- Progress -->
