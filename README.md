@@ -240,7 +240,7 @@ I am Acme, an enthusiast who loves to code 🙂.
   <tr>
     <td>
       <!-- Socket.io -->
-      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django">
+      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io">
     </td>
     <td>
       <!-- Progress -->
@@ -250,7 +250,7 @@ I am Acme, an enthusiast who loves to code 🙂.
   <tr>
     <td>
       <!-- WebRTC -->
-      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django">
+      <img width="45px" src="Assets/webrtc.png" alt="WebRTC">
     </td>
     <td>
       <!-- Progress -->
@@ -260,7 +260,7 @@ I am Acme, an enthusiast who loves to code 🙂.
   <tr>
     <td>
       <!-- SolidJS -->
-      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django">
+      <img width="45px" src="Assets/solidjs.svg" alt="Solid JS">
     </td>
     <td>
       <!-- Progress -->
@@ -270,7 +270,7 @@ I am Acme, an enthusiast who loves to code 🙂.
   <tr>
     <td>
       <!-- TypeScript -->
-      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask">
+      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript">
     </td>
     <td>
       <!-- Progress -->
@@ -280,7 +280,7 @@ I am Acme, an enthusiast who loves to code 🙂.
   <tr>
     <td>
       <!-- ASP -->
-      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">
+      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnet/aspnet-original.svg" alt="ASP">
     </td>
     <td>
       <!-- Progress -->
@@ -290,7 +290,7 @@ I am Acme, an enthusiast who loves to code 🙂.
   <tr>
     <td>
       <!-- Spring Boot -->
-      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg" alt="Vue">
+      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot">
     </td>
     <td>
       <!-- Progress -->
