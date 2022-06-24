@@ -9,7 +9,7 @@ I am Acme, an enthusiast who loves to code 🙂.
 [![Skype](https://img.shields.io/badge/skype-0A66C2.svg?style=for-the-badge&logo=skype&logoColor=ffffff)](https://join.skype.com/invite/MG9hK7OkRNzS)
 [![Resume](https://img.shields.io/badge/Resume-0A66C2.svg?style=for-the-badge&logo=Academia&logoColor=ffffff)](https://raw.githubusercontent.com/AcmeGamers/Projects/master/Resume.pdf)
 
-## Languages
+## Languages 🌆
 
 <table>
   <tr>
@@ -40,9 +40,9 @@ I am Acme, an enthusiast who loves to code 🙂.
   </tr>
 </table>
 
-## Tools
+## Tools 🧰
 
-### Full Stack Development
+### Full Stack Development 🚀
 
 <table>
   
@@ -83,8 +83,7 @@ I am Acme, an enthusiast who loves to code 🙂.
     <td>
      <!-- Charkra UI -->
       <img width='45px' src='Assets/chakra_ui.jpg' alt='Charkra UI'> 
-    </td>
-    
+    </td>  
   </tr>
   
   <!-- Row 2 -->
@@ -185,7 +184,7 @@ I am Acme, an enthusiast who loves to code 🙂.
 
 </table>
 
-### Data Science
+### Data Science 📈
 
 <table>
   <tr>
@@ -216,7 +215,7 @@ I am Acme, an enthusiast who loves to code 🙂.
   </tr>
 </table>
 
-### Networking
+### Networking 🌐
 
 <table>
   <tr>
@@ -235,7 +234,7 @@ I am Acme, an enthusiast who loves to code 🙂.
   </tr>
 </table>
 
-## Learning Frameworks / Libraries / Languages
+## Currently Learning 📚
 
 <table>
   <tr>
@@ -310,7 +309,7 @@ I am Acme, an enthusiast who loves to code 🙂.
   <tr>
 </table>
 
-## Github Statistics
+## Github Statistics 📊
 
 <table>
   <tr>
