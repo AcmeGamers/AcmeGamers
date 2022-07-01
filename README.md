@@ -240,15 +240,15 @@ I am Acme, an enthusiast who loves to code 🙂.
   <tr>
     <td>
       <!-- Photoshop -->
-      <img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg' alt='Photoshop'>
+      <img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg' alt='Photoshop'>
     </td>
     <td>
       <!-- Illustrator -->
-      <img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg' alt='Illustrator'>
+      <img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg' alt='Illustrator'>
     </td>
     <td>
       <!-- Adobe XD -->
-     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg' alt='Adobe XD'> 
+     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg' alt='Adobe XD'> 
     </td>
   </tr>
 </table>
