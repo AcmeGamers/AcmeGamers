@@ -321,7 +321,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     </td>
     <td>
       <!-- Progress -->
-       ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+       🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
     </td>
     <!-- Angular -->
     <td>
