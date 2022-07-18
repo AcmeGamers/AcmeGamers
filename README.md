@@ -23,66 +23,30 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
 ### Full Stack Development 🚀
 
 #### Front End
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg' alt='Tailwind CSS'> 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg' alt='SASS'>
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg' alt='LESS'> 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg' alt='Bootstrap'>
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg' alt='jQuery'> 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg' alt='Material UI'> 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg' alt='LaTex'> 
-<img width='45px' src='Assets/fluent-ui-logo.png' alt='Fluent UI'> 
-<img width='45px' src='Assets/chakra_ui.jpg' alt='Charkra UI'> 
+<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg' alt='Tailwind CSS'> <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg' alt='SASS'><img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg' alt='LESS'> <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg' alt='Bootstrap'><img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg' alt='jQuery'> <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg' alt='Material UI'> <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg' alt='LaTex'> <img width='45px' src='Assets/fluent-ui-logo.png' alt='Fluent UI'> <img width='45px' src='Assets/chakra_ui.jpg' alt='Charkra UI'> 
 
 #### Backend
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='Node.js'> 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg'>
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' alt='Express'> 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg' alt='Babel'> 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='React'> 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg' alt='Next.js'> 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg' alt='Electron'> 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg' alt='Selenium'> 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons//mocha/mocha-plain.svg' alt='Moocha'> 
+<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='Node.js'> <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg'><img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' alt='Express'> <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg' alt='Babel'> <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='React'> <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg' alt='Next.js'> <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg' alt='Electron'> <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg' alt='Selenium'> <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons//mocha/mocha-plain.svg' alt='Moocha'> 
 
 #### Databases
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg' alt='Firebase'>
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' alt='MongoDB'>
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg' alt='MySQL'>
+<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg' alt='Firebase'><img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' alt='MongoDB'><img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg' alt='MySQL'>
 
 #### CI/CD
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg' alt='Heroku'>
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg' alt='AWS'>
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg' alt='CircleCI'>
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg' alt='Google Cloud'> 
-<img width='45px' src='Assets/Hostinger-logo.svg' alt='Hostinger'> 
-<img width='45px' src='Assets/Vercel.png' alt='Hostinger'> 
-<img width='45px' src='Assets/netlify.jpg' alt='Netlify'> 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg' alt='Nginx'> 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg' alt='Apache'> 
+<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg' alt='Heroku'><img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg' alt='AWS'><img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg' alt='CircleCI'><img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg' alt='Google Cloud'> <img width='45px' src='Assets/Hostinger-logo.svg' alt='Hostinger'> <img width='45px' src='Assets/Vercel.png' alt='Hostinger'> <img width='45px' src='Assets/netlify.jpg' alt='Netlify'> <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg' alt='Nginx'> <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg' alt='Apache'> 
     
 ### Data Science 📈
 
-<img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg' alt='Anaconda'>
-<img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg' alt='Jypyter'>
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg' alt='Pandas'> 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg' alt='Numpy'> 
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg' alt='MATLAB'>
-<img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg' alt='Tensorflow'>
+<img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg' alt='Anaconda'><img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg' alt='Jypyter'><img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg' alt='Pandas'> <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg' alt='Numpy'> <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg' alt='MATLAB'><img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg' alt='Tensorflow'>
     
 
 ### Networking 🌐
     
-<img width="45px" src="Assets/packet-tracer.png" alt="Packet Tracer">
-<img width="45px" src="Assets/wireshark-1.png" alt="Wire Shark">
-<img width="45px" src="Assets/glasswire.png" alt="Glass Wire">
+<img width="45px" src="Assets/packet-tracer.png" alt="Packet Tracer"><img width="45px" src="Assets/wireshark-1.png" alt="Wire Shark"><img width="45px" src="Assets/glasswire.png" alt="Glass Wire">
     
 
 ### Graphic/UI Designing 🎨
 
-<img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg' alt='Photoshop'>
-<img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg' alt='Illustrator'>
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg' alt='Adobe XD'> 
-<img width='45px' src='Assets/invision.png' alt='Invision'> 
+<img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg' alt='Photoshop'><img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg' alt='Illustrator'><img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg' alt='Adobe XD'> <img width='45px' src='Assets/invision.png' alt='Invision'> 
     
 ## Currently Learning 📚
 
