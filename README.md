@@ -11,12 +11,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
 
 ## Languages 🌆
 
-<img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' alt='HTML5'>
-<img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' alt='CSS'>
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='JavaScript'>
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='Python'>
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' alt='Java'>
-<img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg' alt='Solidity'>
+<img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' alt='HTML5'><img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' alt='CSS'><img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='JavaScript'><img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='Python'><img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' alt='Java'><img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg' alt='Solidity'>
 
 ## Tools 🧰
 
