@@ -351,6 +351,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
       <img width="350px" src="https://github-readme-streak-stats.herokuapp.com?user=AcmeGamers&theme=dark&hide_border=true" />
     </td>
     <td>
-      <img width="350px" src="https://activity-graph.herokuapp.com/graph?username=AcmeGamers&custom_title=Activity&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
+      
     </td>
   </tr> -->
+<img width="350px" src="https://activity-graph.herokuapp.com/graph?username=AcmeGamers&custom_title=Activity&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
