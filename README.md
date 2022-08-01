@@ -339,7 +339,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
 <table>
   <tr>
     <td>
-      <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcmeGamers&count_private=true&hide=html&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
+      <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcmeGamers&count_private=true&hide=html&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515&langs_count=8" />
     </td>
     <td>
       <img width="350px" src="https://github-readme-stats.vercel.app/api/?username=AcmeGamers&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
