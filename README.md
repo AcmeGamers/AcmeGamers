@@ -242,7 +242,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     </td>
     <td>
       <!-- D3 -->
-      <img width='45px' src='Assets/D3.png' alt='MATLAB' title='MATLAB'>
+      <img width='45px' src='Assets/D3.png' alt='D3.js' title='D3.js'>
     </td>
     <td>
       <!-- Seaborn -->
