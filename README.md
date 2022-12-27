@@ -246,7 +246,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     </td>
     <td>
       <!-- Seaborn -->
-     <img width='45px' src='Assets/scikit-learn.png.svg' alt='Scikit Learn' title='Scikit Learn'>  
+     <img width='45px' src='Assets/scikit-learn.png' alt='Scikit Learn' title='Scikit Learn'>  
      <td>
     <td>
       <!-- Seaborn -->
