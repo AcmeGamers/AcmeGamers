@@ -102,7 +102,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     </td>
     <td>
       <!-- ES Lint -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg'>
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg' alt="ES Lint" title="ES Lint">
     </td>
     <td>
     <!-- Express -->
@@ -416,7 +416,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
   <tr>
     <!-- Socket.io -->
     <td>
-      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io" title="Socket.
+      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io" title="Socket.io">
     </td>
     <td>
        🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️
@@ -451,7 +451,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
   <tr>
     <!-- Spring Boot -->
     <td>
-      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring 
+      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot">
     </td>
     <td>
       <!-- Progress -->
