@@ -315,7 +315,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     </td>
     <td>
       <!-- After Effects -->
-     <img width='45px' src='https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg' alt='Invision' title='Invision'>  
+     <img width='45px' src='https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg' alt='After Effects' title='After Effects'>  
     </td>
     <td>
       <!-- Blender -->
