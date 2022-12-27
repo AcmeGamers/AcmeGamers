@@ -372,23 +372,6 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     </td>
   </tr>
   <tr>
-    <!-- Socket.io -->
-    <td>
-      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io">
-    </td>
-    <td>
-       🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️
-    </td>
-    <!-- WebRTC -->
-    <td>
-      <img width="45px" src="Assets/webrtc.png" alt="WebRTC">
-    </td>
-    <td>
-      <!-- Progress -->
-       🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
-    </td>
-  </tr>
-  <tr>
     <!-- SolidJS -->
     <td>  
       <img width="45px" src="Assets/solidjs.svg" alt="Solid JS">
@@ -406,7 +389,23 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
        🔵🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️
     </td>
   </tr>
-  
+  <tr>
+    <!-- Socket.io -->
+    <td>
+      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io">
+    </td>
+    <td>
+       🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️
+    </td>
+    <!-- WebRTC -->
+    <td>
+      <img width="45px" src="Assets/webrtc.png" alt="WebRTC">
+    </td>
+    <td>
+      <!-- Progress -->
+       🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+    </td>
+  </tr> 
   <tr>
     <!-- Dot-Net -->
     <td>
