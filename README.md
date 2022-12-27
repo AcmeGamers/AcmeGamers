@@ -188,6 +188,14 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
       <!-- Netlify -->
       <img width='45px' src='Assets/netlify.jpg' alt='Netlify'> 
     </td>
+    <td>
+      <!-- Cloudflare Pages -->
+      <img width='45px' src='Assets/cloudflare-pages.png' alt='Cloudflare Pages'> 
+    </td>
+    <td>
+      <!-- Github Pages -->
+      <img width='45px' src='Assets/GitHub.png' alt='Github Pages'> 
+    </td>
      <td>
       <!-- Nginx -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg' alt='Nginx'> 
