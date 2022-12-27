@@ -194,7 +194,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     </td>
     <td>
       <!-- Github Pages -->
-      <img width='45px' src='Assets/GitHub.png' alt='Github Pages'> 
+      <img width='45px' src='Assets/GitHub-Pages.png' alt='Github Pages'> 
     </td>
      <td>
       <!-- Nginx -->
