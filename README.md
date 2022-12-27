@@ -149,6 +149,14 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg' alt='Firebase'>
     </td>
     <td>
+      <!-- Firestore -->
+      <img width='45px' src='Assets/firestore.png' alt='Firestore'>
+    </td>
+    <td>
+      <!-- Postgre SQL -->
+      <img width='45px' src='Assets/postgre-sql.png' alt='Postgre SQL'>
+    </td>
+    <td>
       <!-- MongoDB -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' alt='MongoDB'>
     </td>
@@ -228,11 +236,11 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
       <!-- Numpy -->
      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg' alt='Numpy'> 
     </td>
-    </td>
+    <td>
       <!-- MATLAB -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg' alt='MATLAB'>
     </td>
-    </td>
+    <td>
       <!-- D3 -->
       <img width='45px' src='Assets/D3.png' alt='MATLAB'>
     </td>
