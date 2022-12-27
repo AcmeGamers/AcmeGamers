@@ -245,9 +245,9 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
       <img width='45px' src='Assets/D3.png' alt='D3.js' title='D3.js'>
     </td>
     <td>
-      <!-- Seaborn -->
+      <!-- Scikit Learn -->
      <img width='45px' src='Assets/scikit-learn.png' alt='Scikit Learn' title='Scikit Learn'>  
-     <td>
+    </td>
     <td>
       <!-- Seaborn -->
      <img width='45px' src='Assets/Seaborn.svg' alt='Seaborn' title='Seaborn'>  
