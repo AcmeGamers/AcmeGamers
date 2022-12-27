@@ -1,10 +1,10 @@
 # Hey there 👋
 
-I am Acme, an enthusiast who loves to code 🙂. For more projects that I am working over, head over to [AM Designers](https://github.com/AM-Designers) 😊.
+I am Acme, an enthusiast who loves to code 🙂. For more projects that I am working over, head over to [AM Designers](https://github.com/AM-Designers) or [Yaruhito](https://github.com/Yaruhito) 😊.
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-0A66C2?style=for-the-badge&logo=Mail.Ru&logoColor=ffffff)](mailto:acmegamers@fatima-academy.com)
 [![Twitter](https://img.shields.io/badge/twitter-0A66C2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/acme_gamers)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/acmegamers/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/acme-gamers/)
 [![Facebook](https://img.shields.io/badge/facebook-0A66C2.svg?style=for-the-badge&logo=facebook&logoColor=ffffff)](https://www.facebook.com/acmegamers/)
 [![Skype](https://img.shields.io/badge/skype-0A66C2.svg?style=for-the-badge&logo=skype&logoColor=ffffff)](https://join.skype.com/invite/MG9hK7OkRNzS)
 [![Resume](https://img.shields.io/badge/Resume-0A66C2.svg?style=for-the-badge&logo=Academia&logoColor=ffffff)](https://raw.githubusercontent.com/AcmeGamers/Projects/master/Resume.pdf)
@@ -432,7 +432,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     </td>
     <td>
       <!-- Progress -->
-       ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+       🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
     </td>
     <!-- Angular -->
     <td>
@@ -450,7 +450,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
 <table>
   <tr>
     <td>
-      <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcmeGamers&count_private=true&hide=html&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
+      <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcmeGamers&count_private=true&hide=html&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515&langs_count=8" />
     </td>
     <td>
       <img width="350px" src="https://github-readme-stats.vercel.app/api/?username=AcmeGamers&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
@@ -462,6 +462,6 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
       <img width="350px" src="https://github-readme-streak-stats.herokuapp.com?user=AcmeGamers&theme=dark&hide_border=true" />
     </td>
     <td>
-      <img width="350px" src="https://activity-graph.herokuapp.com/graph?username=AcmeGamers&custom_title=Activity&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
+      <img src="https://activity-graph.herokuapp.com/graph?username=AcmeGamers&custom_title=Activity&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
     </td>
   </tr> -->
