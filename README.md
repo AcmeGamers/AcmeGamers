@@ -124,6 +124,14 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
       <!-- Moocha -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons//mocha/mocha-plain.svg' alt='Moocha'> 
     </td>
+    <td>
+      <!-- Astro -->
+     <img width='45px' src='Assets/astro.png' alt='Astro'> 
+    </td>
+    <td>
+      <!-- Hugo -->
+     <img width='45px' src='Assets/Hugo.png' alt='Hugo'> 
+    </td>
   </tr>
 
   <!-- Row 3 -->
@@ -204,13 +212,32 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
       <!-- Numpy -->
      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg' alt='Numpy'> 
     </td>
-    <td>
+    </td>
       <!-- MATLAB -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg' alt='MATLAB'>
+    </td>
+    </td>
+      <!-- D3 -->
+      <img width='45px' src='Assets/D3.png' alt='MATLAB'>
+    </td>
+    <td>
+      <!-- Seaborn -->
+     <img width='45px' src='Assets/Seaborn.svg' alt='Seaborn'> 
+     <td>
+      <!-- NiLearn -->
+      <img width="45" src='Assets/NiLearn.png' alt='NiLearn'>
+    </td>
+    <td>
+      <!-- Nibabel -->
+      <img width="45" src='Assets/NiBabel.svg' alt='NiBabel'>
     </td>
     <td>
       <!-- Tensorflow -->
       <img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg' alt='Tensorflow'>
+    </td>
+    <td>
+      <!-- Keras -->
+      <img width="45" src='Assets/Keras.png' alt='Keras'>
     </td>
   </tr>
 </table>
@@ -254,6 +281,73 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
       <!-- Invision -->
      <img width='45px' src='Assets/invision.png' alt='Invision'> 
     </td>
+    <td>
+      <!-- Figma -->
+     <img width='45px' src='https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg' alt='Figma'> 
+    </td>
+    <td>
+      <!-- Canva -->
+     <img width='45px' src='https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg' alt='Canva'> 
+    </td>
+    <td>
+      <!-- After Effects -->
+     <img width='45px' src='https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg' alt='Invision'> 
+    </td>
+    <td>
+      <!-- Blender -->
+     <img width='45px' src='https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg' alt='Blender'> 
+    </td>
+    <td>
+      <!-- Movavi -->
+     <img width='45px' src='Assets/Movavi.png' alt='Movavi'> 
+    </td>
+    <td>
+      <!-- Filmora -->
+     <img width='45px' src='Assets/Filmora.png' alt='Filmora'> 
+    </td>
+  </tr>
+</table>
+
+## CMS 📝
+
+<table>
+  <tr>
+    <td>
+      <!-- WordPress -->
+     <img width='45px' src='https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg' alt='WordPress'> 
+    </td>
+    <td>
+      <!-- Shopify -->
+     <img width='45px' src='Assets/Shopify.png' alt='Shopify'> 
+    </td>
+    <td>
+      <!-- Wix -->
+     <img width='45px' src='Assets/Wix.png' alt='Wix'> 
+    </td>
+    <td>
+      <!-- Joomla -->
+     <img width='45px' src='Assets/Joomla.png' alt='Joomla'> 
+    </td>
+    <td>
+      <!-- Drupal -->
+     <img width='45px' src='Assets/Drupal.png' alt='Drupal'> 
+    </td>
+    <td>
+      <!-- Gatsby -->
+     <img width='45px' src='https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg' alt='Gatsby'> 
+    </td>
+    <td>
+      <!-- Magento -->
+     <img width='45px' src='https://github.com/devicons/devicon/blob/master/icons/magento/magento-original.svg' alt='Magneto'> 
+    </td>
+    <td>
+      <!-- Blogger -->
+     <img width='45px' src='Assets/Blogger.png' alt='Blogger'> 
+    </td>
+    <td>
+      <!-- Google Sites -->
+     <img width='45px' src='Assets/Google Sites.png' alt='Google Sites'> 
+    </td>
   </tr>
 </table>
 
@@ -261,12 +355,29 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
 
 <table>
   <tr>
+    <!-- Flutter -->
+    <td>
+      <img width="45px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter">
+    </td>
+    <td>
+       🔵🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️
+    </td>
+    <!-- Dart -->
+    <td>
+      <img width="45px" src="Assets/Dart.png" alt="Dart">
+    </td>
+    <td>
+      <!-- Progress -->
+       🔵🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️
+    </td>
+  </tr>
+  <tr>
     <!-- Socket.io -->
     <td>
       <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io">
     </td>
     <td>
-       🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+       🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️
     </td>
     <!-- WebRTC -->
     <td>
@@ -284,7 +395,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     </td>
     <td>
       <!-- Progress -->
-       🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️
+       🔵🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️
     </td>
     <!-- TypeScript -->
     <td>
@@ -292,7 +403,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     </td>
     <td>
       <!-- Progress -->
-       🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+       🔵🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️
     </td>
   </tr>
   
@@ -303,7 +414,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     </td>
     <td>
       <!-- Progress -->
-       🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+       🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️
     </td>
     <!-- Dot-Net Core -->
     <td>
@@ -311,7 +422,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     </td>
     <td>
       <!-- Progress -->
-       🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+       🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
     </td>
   </tr>
   <tr>
