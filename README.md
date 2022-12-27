@@ -84,6 +84,14 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
      <!-- Charkra UI -->
       <img width='45px' src='Assets/chakra_ui.jpg' alt='Charkra UI'> 
     </td>  
+    <td>
+     <!-- Atomize Code -->
+      <img width='45px' src='Assets/Atomize.svg' alt='Atomize Code'> 
+    </td>  
+    <td>
+     <!-- Ant Design -->
+      <img width='45px' src='Assets/Ant Design.svg' alt='Ant Design'> 
+    </td>  
   </tr>
   
   <!-- Row 2 -->
