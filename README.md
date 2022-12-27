@@ -263,6 +263,8 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
       <!-- Tensorflow -->
       <img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg' alt='Tensorflow' title='Tensorflow'>
     </td>
+  </tr>
+  <tr>
     <td>
       <!-- Keras -->
       <img width="45" src='Assets/Keras.png' alt='Keras' title='Keras'>
