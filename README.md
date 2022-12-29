@@ -100,10 +100,12 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
      <!-- Node JS -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='Node.js' title='Node.js'>  
     </td>
+    <!--
     <td>
-      <!-- ES Lint -->
+       ES Lint 
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg' alt="ES Lint" title="ES Lint">
     </td>
+    -->
     <td>
     <!-- Express -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' alt='Express' title='Express'>  
@@ -117,20 +119,16 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='React' title='React'>  
     </td>
     <td>
-      <!-- Next -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg' alt='Next.js' title='Next.js'>  
+      <!-- Preact -->
+      <img width='45px' src='Assets/preact.png' alt='Preact' title='Preact'>  
     </td>
     <td>
       <!-- Electron -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg' alt='Electron' title='Electron'>  
     </td>
     <td>
-      <!-- Selenium -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg' alt='Selenium' title='Selenium'>  
-    </td>
-    <td>
-      <!-- Moocha -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons//mocha/mocha-plain.svg' alt='Moocha' title='Moocha'>  
+      <!-- Next -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg' alt='Next.js' title='Next.js'>  
     </td>
     <td>
       <!-- Astro -->
@@ -139,6 +137,14 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     <td>
       <!-- Hugo -->
      <img width='45px' src='Assets/Hugo.png' alt='Hugo' title='Hugo'>  
+    </td>
+    <td>
+      <!-- Selenium -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg' alt='Selenium' title='Selenium'>  
+    </td>
+    <td>
+      <!-- Moocha -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons//mocha/mocha-plain.svg' alt='Moocha' title='Moocha'>  
     </td>
   </tr>
 
