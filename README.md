@@ -15,27 +15,27 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
   <tr>
     <td>
       <!-- HTML -->
-      <img width="45" src='Assets/html5-original.svg' alt='HTML5' title='HTML5'>
+      <img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' alt='HTML5' title='HTML5'>
     </td>
     <td>
       <!-- CSS -->
-      <img width="45" src='Assets/css3-original.svg' alt='CSS' title='CSS'>
+      <img width="45" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' alt='CSS' title='CSS'>
     </td>
     <td>
       <!-- JavaScript -->
-     <img width='45px' src='Assets/javascript-original.svg' alt='JavaScript' title='JavaScript'>
+     <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='JavaScript' title='JavaScript'>
     </td>
     <td>
       <!-- Python -->
-      <img width='45px' src='Assets/python-original.svg' alt='Python' title='Python'>
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='Python' title='Python'>
     </td>
     <td>
       <!-- Java -->
-      <img width='45px' src='Assets/java-original.svg' alt='Java' title='Java'>
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' alt='Java' title='Java'>
     </td>
     <td>
       <!-- Solidity -->
-      <img width='45px' src='Assets/solidity-original.svg' alt='Solidity' title='Solidity'>
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg' alt='Solidity' title='Solidity'>
     </td>
   </tr>
 </table>
@@ -50,31 +50,31 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
   <tr>
     <td>
      <!-- Tailwind CSS -->
-      <img width='45px' src='Assets/tailwindcss-plain.svg' alt='Tailwind CSS' title='Tailwind CSS'>  
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg' alt='Tailwind CSS' title='Tailwind CSS'>  
     </td>
     <td>
       <!-- SASS -->
-      <img width='45px' src='Assets/sass-original.svg' alt='SASS' title='SASS'>
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg' alt='SASS' title='SASS'>
     </td>
     <td>
     <!-- LESS -->
-      <img width='45px' src='Assets/less-plain-wordmark.svg' alt='LESS' title='LESS'>  
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg' alt='LESS' title='LESS'>  
     </td>
     <td>
       <!-- Bootstrap -->
-      <img width='45px' src='Assets/bootstrap-plain-wordmark.svg' alt='Bootstrap' title='Bootstrap'>
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg' alt='Bootstrap' title='Bootstrap'>
     </td>
     <td>
      <!-- JQuery -->
-      <img width='45px' src='Assets/jquery-original.svg' alt='jQuery' title='jQuery'>  
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg' alt='jQuery' title='jQuery'>  
     </td>
     <td>
      <!-- Material UI -->
-      <img width='45px' src='Assets/materialui-original.svg' alt='Material UI' title='Material UI'>  
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg' alt='Material UI' title='Material UI'>  
     </td>
     <td>
      <!-- LaTeX -->
-      <img width='45px' src='Assets/latex-original.svg' alt='LaTex' title='LaTex'>  
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg' alt='LaTex' title='LaTex'>  
     </td>
     <td>
      <!-- Fluent UI -->
@@ -98,7 +98,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
   <tr>
     <td>
      <!-- Node JS -->
-      <img width='45px' src='Assets/nodejs-original.svg' alt='Node.js' title='Node.js'>  
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='Node.js' title='Node.js'>  
     </td>
     <!--
     <td>
@@ -108,15 +108,15 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     -->
     <td>
     <!-- Express -->
-      <img width='45px' src='Assets/express-original.svg' alt='Express' title='Express'>  
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' alt='Express' title='Express'>  
     </td>
     <td>
     <!-- Babel -->
-      <img width='45px' src='Assets/babel-original.svg' alt='Babel' title='Babel'>  
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg' alt='Babel' title='Babel'>  
     </td>
     <td>
       <!-- React -->
-      <img width='45px' src='Assets/react-original.svg' alt='React' title='React'>  
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='React' title='React'>  
     </td>
     <td>
       <!-- Preact -->
