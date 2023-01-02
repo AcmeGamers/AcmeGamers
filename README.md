@@ -361,6 +361,10 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
      <img width='45px' src='Assets/Wix.png' alt='Wix' title='Wix'>  
     </td>
     <td>
+      <!-- Sharepoint -->
+     <img width='45px' src='Assets/sharepoint.png' alt='SharePoint' title='SharePoint'>  
+    </td>
+    <td>
       <!-- Joomla -->
      <img width='45px' src='Assets/Joomla.png' alt='Joomla' title='Joomla'>  
     </td>
