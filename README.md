@@ -110,8 +110,9 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     <!-- Express -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' alt='Express' title='Express'>  
     </td>
+    <!--
     <td>
-    <!-- Babel 
+     Babel 
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg' alt='Babel' title='Babel'>  
     </td>
     -->
