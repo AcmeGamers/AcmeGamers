@@ -111,9 +111,10 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' alt='Express' title='Express'>  
     </td>
     <td>
-    <!-- Babel -->
+    <!-- Babel 
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg' alt='Babel' title='Babel'>  
     </td>
+    -->
     <td>
       <!-- React -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='React' title='React'>  
@@ -121,6 +122,10 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     <td>
       <!-- Preact -->
       <img width='45px' src='Assets/preact.png' alt='Preact' title='Preact'>  
+    </td>
+    <td>
+      <!-- Million -->
+      <img width='45px' src='Assets/million.svg' alt='Million' title='Million'>  
     </td>
     <td>
       <!-- Electron -->
