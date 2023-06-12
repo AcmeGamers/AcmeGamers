@@ -2,7 +2,7 @@
 
 I am Acme, an enthusiast who loves to code 🙂. For more projects that I am working over, head over to [AM Designers](https://github.com/AM-Designers) or [Yaruhito](https://github.com/Yaruhito) 😊.
 
-[![Gmail Badge](https://img.shields.io/badge/-Email-0A66C2?style=for-the-badge&logo=Mail.Ru&logoColor=ffffff)](mailto:acmegamers@fatima-academy.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email-0A66C2?style=for-the-badge&logo=Mail.Ru&logoColor=ffffff)](mailto:makki.query@outlook.com)
 [![Twitter](https://img.shields.io/badge/twitter-0A66C2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/acme_gamers)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/acme-gamers/)
 [![Facebook](https://img.shields.io/badge/facebook-0A66C2.svg?style=for-the-badge&logo=facebook&logoColor=ffffff)](https://www.facebook.com/acmegamers/)
