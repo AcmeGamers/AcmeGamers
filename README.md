@@ -50,7 +50,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
   <tr>
     <td>
      <!-- Tailwind CSS -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg' alt='Tailwind CSS' title='Tailwind CSS'>  
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg' alt='Tailwind CSS' title='Tailwind CSS'>  
     </td>
     <td>
       <!-- SASS -->
@@ -186,7 +186,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     </td> 
     <td>
       <!-- AWS -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg' alt='AWS' title='AWS'>
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg' alt='AWS' title='AWS'>
     </td>
     <td>
       <!-- CircleCI -->
