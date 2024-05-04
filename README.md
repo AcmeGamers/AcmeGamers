@@ -406,7 +406,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
       <img width="45px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter">
     </td>
     <td>
-       🔵🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️
+       🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪️
     </td>
     <!-- Dart -->
     <td>
@@ -414,7 +414,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     </td>
     <td>
       <!-- Progress -->
-       🔵🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️
+       🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪️
     </td>
   </tr>
   <tr>
@@ -424,7 +424,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     </td>
     <td>
       <!-- Progress -->
-       🔵🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️
+       🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪️
     </td>
     <!-- TypeScript -->
     <td>
@@ -432,7 +432,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     </td>
     <td>
       <!-- Progress -->
-       🔵🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️
+       🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪️
     </td>
   </tr>
   <tr>
@@ -441,7 +441,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
       <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io" title="Socket.io">
     </td>
     <td>
-       🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️
+       🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪️
     </td>
     <!-- WebRTC -->
     <td>
@@ -449,7 +449,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     </td>
     <td>
       <!-- Progress -->
-       🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+       🔵🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️
     </td>
   </tr> 
   <tr>
@@ -459,7 +459,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     </td>
     <td>
       <!-- Progress -->
-       🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+       🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️
     </td>
     <!-- Dot-Net Core -->
     <td>
@@ -467,7 +467,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     </td>
     <td>
       <!-- Progress -->
-       🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+       🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️
     </td>
   </tr>
   <tr>
@@ -477,7 +477,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     </td>
     <td>
       <!-- Progress -->
-       🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+       🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️
     </td>
     <!-- Angular -->
     <td>
@@ -485,7 +485,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     </td>  
     <td>
       <!-- Progress -->
-       ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+       🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️
     </td>
   </tr>
 </table>
