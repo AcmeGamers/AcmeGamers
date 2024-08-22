@@ -520,6 +520,24 @@ Placing some here cause I feel I'm getting out of space above, will arrange late
     </td>
   </tr>
   <tr>
+    <!-- Tauri -->
+    <td>  
+      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" alt="Tauri" title="Tauri">
+    </td>
+    <td>
+      <!-- Progress -->
+       🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪️
+    </td>
+    <!-- Cofee Script -->
+    <td>
+      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original.svg" alt="Cofee Script" title="Cofee Script">
+    </td>
+    <td>
+      <!-- Progress -->
+       🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪️
+    </td>
+  </tr>
+  <tr>
     <!-- Socket.io -->
     <td>
       <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io" title="Socket.io">
