@@ -320,7 +320,30 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
       <!-- Glass Wire -->
       <img width="45px" src="Assets/glasswire.png" alt="Glass Wire" title="Glass Wire">
     </td>
-  </tr>
+    <td>
+      <!-- GNS3 -->
+      <img width="45px" src="Assets/gns3.png" alt="GNS3" title="GNS3">
+    </td>
+    <td>
+      <!-- PuTTy -->
+      <img width="45px" src="Assets/putty.svg" alt="PuTTy" title="PuTTy">
+    </td>
+    <td>
+      <!-- OpenVPN -->
+      <img width="45px" src="Assets/openvpn.svg" alt="OpenVPN" title="OpenVPN">
+    </td>
+    <td>
+      <!-- Burp Suite -->
+      <img width="45px" src="Assets/burpsuit.svg" alt="Burp Suite" title="Burp Suite">
+    </td>
+    <td>
+      <!-- Nikto -->
+      <img width="45px" src="Assets/nikto.svg" alt="Nikto" title="Nikto">
+    </td>
+    <td>
+      <!-- Metasploit -->
+      <img width="45px" src="Assets/metasploit.png" alt="Metasploit" title="Metasploit">
+    </td>
 </table>
 
 ### Graphic/UI Designing 🎨
