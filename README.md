@@ -440,6 +440,23 @@ Placing some here cause I feel I'm getting out of space above, will arrange late
     </td>
   </tr>
   <tr>
+    <!-- Deno -->
+    <td>
+      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg" alt="Deno" title="Deno">
+    </td>
+    <td>
+       🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪️
+    </td>
+    <!-- Bun -->
+    <td>
+      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg" alt="Bun" title="Bun">
+    </td>
+    <td>
+      <!-- Progress -->
+       🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪️
+    </td>
+  </tr>
+  <tr>
     <!-- SolidJS -->
     <td>  
       <img width="45px" src="Assets/solidjs.svg" alt="Solid JS" title="Solid JS">
@@ -451,6 +468,24 @@ Placing some here cause I feel I'm getting out of space above, will arrange late
     <!-- TypeScript -->
     <td>
       <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript">
+    </td>
+    <td>
+      <!-- Progress -->
+       🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪️
+    </td>
+  </tr>
+  <tr>
+    <!-- Fastify -->
+    <td>  
+      <img width="45px" src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original.svg" alt="Fastify" title="Fastify">
+    </td>
+    <td>
+      <!-- Progress -->
+       🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪️
+    </td>
+    <!-- Flask -->
+    <td>
+      <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" title="Flask">
     </td>
     <td>
       <!-- Progress -->
