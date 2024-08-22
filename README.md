@@ -38,12 +38,12 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg' alt='Solidity' title='Solidity'>
     </td>
     <td>
-      <!-- Rust -->
-      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg' alt='Rust' title='Rust'>
-    </td>
-    <td>
       <!-- Mojo -->
       <img width='45px' src='Assets/mojo.svg' alt='Mojo AI' title='Mojo AI'>
+    </td>
+    <td>
+      <!-- Rust -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg' alt='Rust' title='Rust'>
     </td>
   </tr>
 </table>
