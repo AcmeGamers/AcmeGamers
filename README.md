@@ -37,6 +37,14 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
       <!-- Solidity -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg' alt='Solidity' title='Solidity'>
     </td>
+    <td>
+      <!-- Rust -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg' alt='Rust' title='Rust'>
+    </td>
+    <td>
+      <!-- Mojo -->
+      <img width='45px' src='Assets/mojo.svg' alt='Mojo AI' title='Mojo AI'>
+    </td>
   </tr>
 </table>
 
@@ -175,6 +183,18 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     <td>
       <!-- MySQL -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg' alt='MySQL' title='MySQL'>
+    </td>
+    <td>
+      <!-- Supabase -->
+      <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg' alt='Supabase' title='Supabase'>
+    </td>
+    <td>
+      <!-- Appwrite -->
+      <img width='45px' src='Assets/appwrite.svg' alt='Appwrite' title='Appwrite'>
+    </td>
+    <td>
+      <!-- NHost -->
+      <img width='45px' src='Assets/nhost.svg' alt='NHost' title='NHost'>
     </td>
   </tr>
 
