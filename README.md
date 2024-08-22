@@ -414,6 +414,10 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
       <!-- Google Sites -->
      <img width='45px' src='Assets/Google Sites.png' alt='Google Sites' title='Google Sites'>  
     </td>
+    <td>
+      <!-- Zendesk -->
+     <img width='45px' src='Assets/zendesk.svg' alt='Zendesk' title='Zendesk'>  
+    </td>
   </tr>
 </table>
 
