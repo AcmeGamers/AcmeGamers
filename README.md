@@ -444,7 +444,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
   </tr>
 </table>
 
-## Currently Learning 📚 (and Learned)
+## Currently Learning 📚 (and learned)
 
 Placing some here cause I feel I'm getting out of space above, will arrange later
 
