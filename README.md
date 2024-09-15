@@ -47,7 +47,7 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
     </td>
 <!--     <td>
       <!-- Web Assmebly
-      <img width='45px' src='Assets/webassembly.svg' alt='Web Assmebly' title='Web Assmebly'>
+      <img width='45px' src='Assets/web-assembly.png' alt='Web Assmebly' title='Web Assmebly'>
     </td> -->
   </tr>
 </table>
@@ -544,7 +544,7 @@ Placing some here cause I feel I'm getting out of space above, will arrange late
    <tr>
     <!-- Monorepo - Lerna -->
     <td>
-      <img width="45px" src="Assets/lerna.png" alt="Monorepo - Lerna" title="Monorepo - Lerna">
+      <img width="45px" src="Assets/lerna.svg" alt="Monorepo - Lerna" title="Monorepo - Lerna">
     </td>
     <td>
        🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪️
@@ -561,7 +561,7 @@ Placing some here cause I feel I'm getting out of space above, will arrange late
    <tr>
     <!-- Framer Motion -->
     <td>
-      <img width="45px" src="Assets/framer-motion.png" alt="Framer Motion" title=Framer Motion">
+      <img width="45px" src="Assets/framer-motion.svg" alt="Framer Motion" title=Framer Motion">
     </td>
     <td>
        🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪️
