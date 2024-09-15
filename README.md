@@ -45,6 +45,10 @@ I am Acme, an enthusiast who loves to code 🙂. For more projects that I am wor
       <!-- Rust -->
       <img width='45px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg' alt='Rust' title='Rust'>
     </td>
+<!--     <td>
+      <!-- Web Assmebly
+      <img width='45px' src='Assets/webassembly.svg' alt='Web Assmebly' title='Web Assmebly'>
+    </td> -->
   </tr>
 </table>
 
@@ -537,7 +541,31 @@ Placing some here cause I feel I'm getting out of space above, will arrange late
        🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪️
     </td>
   </tr>
-  <tr>
+   <tr>
+    <!-- Monorepo - Lerna -->
+    <td>
+      <img width="45px" src="Assets/lerna.png" alt="Monorepo - Lerna" title="Monorepo - Lerna">
+    </td>
+    <td>
+       🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪️
+    </td>
+    <!-- Turbo -->
+    <td>
+      <img width="45px" src="Assets/turbo.png" alt="Turbo" title="Turbo">
+    </td>
+    <td>
+      <!-- Progress -->
+       🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪️
+    </td>
+  </tr> 
+   <tr>
+    <!-- Framer Motion -->
+    <td>
+      <img width="45px" src="Assets/framer-motion.png" alt="Framer Motion" title=Framer Motion">
+    </td>
+    <td>
+       🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪️
+    </td>
     <!-- Socket.io -->
     <td>
       <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io" title="Socket.io">
@@ -545,6 +573,8 @@ Placing some here cause I feel I'm getting out of space above, will arrange late
     <td>
        🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪️
     </td>
+  </tr> 
+  <tr>
     <!-- WebRTC -->
     <td>
       <img width="45px" src="Assets/webrtc.png" alt="WebRTC" title="WebRTC">
@@ -552,6 +582,13 @@ Placing some here cause I feel I'm getting out of space above, will arrange late
     <td>
       <!-- Progress -->
        🔵🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️
+    </td>
+    <!-- Blazer -->
+    <td>
+      <img width="45px" src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" alt="Blazer" title="Blazer">
+    </td>
+    <td>
+       🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️
     </td>
   </tr> 
   <tr>
