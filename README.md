@@ -626,7 +626,7 @@ Placing some here cause I feel I'm getting out of space above, will arrange late
   </tr>
 </table>
 
-## Github Statistics 📊
+<!-- ## Github Statistics 📊
 
 <table>
   <tr>
@@ -638,7 +638,7 @@ Placing some here cause I feel I'm getting out of space above, will arrange late
     </td>
   </tr>
 </table>
-<!--  <tr>
+ <tr>
     <td>
       <img width="350px" src="https://github-readme-streak-stats.herokuapp.com?user=AcmeGamers&theme=dark&hide_border=true" />
     </td>
